@@ -3,7 +3,7 @@ import java.lang.Math;
 import java.io.printer; 
 import java.io.collection; 
 import java.io.scanner;
-import java.io.inputprinter;
+import java.io.inputprinterhellocganges made;
 public class SpiralPatternExample2
 {  
 //function to print the spiral pattern  first public
